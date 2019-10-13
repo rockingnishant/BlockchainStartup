@@ -4,27 +4,36 @@ title: Bitcoin Basics
 slug: bitcoinbasics
 date: 2018-03-29T03:55:49.370Z
 cover: /img/bitcoin.png
-meta_title: Lorem Ipsum Dolor Situm
+meta_title: Bitcoin Basics
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Bitcoin is the first cryptocurrency.It is also called digital gold.
 tags:
   - Blockchain
   - SmartContract
 ---
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+To Understand Bitcoin fully we need to understand the Money,Banks and technology.
+How money is printed against gold ,How it work,how it is controlled.And how bank is work.This article an overview.This is neither too technical nor non-technical.
+## History
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Bitcoin is developed by unknown person SATOSHI NAKAMOTO in 2009.It has completed 10 year and crossed $10k.We can see https://www.blockchain.com/explorer blocks mined ,height,difficulty,miners and many more.It is written in C++.Bitcoin original code can be found on github realesed in 2008/9.One can see genesis block.  
+> Bitcoin is digital gold.
 
-## Most Amazing Blogging Experience.
+# What is Bitcoin 
+Bitcoin is digital money based on Blockchain technology. There is chain of Blocks linked to each other and Blocks comntain transactions.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Suppose I give u a 100 rs in front of five people then five people become bank insuring you have taken 100 rs from me.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+This five people are computer/Node where Software is running and verifying each transaction.This is called Bitcoin network.
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Suppose 100 such transactions are confirmed by the network , then miner(Node) put all this transactions into a block and find a hash number.This hash number is unique and very hard to find which make network secure. 
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Now the Block is created and propagated to rest of the network.The first transaction of any Block is very special.The first transaction is teh Bitcoin.
+So whenever a Block is mined , one Bitcoin is generated.
+
+This network is very planned and geniuosly created. This is not less than invention.
+Network is very smart.It knows when and how much Blocks should be mined by increasing and decreasing difficulty rate.
+
+2020 is very crucial for two news. Bitcoin reward is halving which has vey much impact on its price.$20k I guess.Lightning network is also play vital role for small transactions. 
+
+Please like and comment and motivate me to write more article on crypto world.
